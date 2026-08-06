@@ -70,7 +70,8 @@ transition:.3s;
 }
 
 button:hover{
-transform
+    transform: scale(1.05);
+}
 
   .gallery {
     display: flex;
