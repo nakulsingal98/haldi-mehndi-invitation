@@ -111,3 +111,23 @@ transform
     object-fit: cover;
     border-radius: 15px;
 }
+
+  .rsvp-section {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.rsvp-section h2 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 45px;
+}
+
+.rsvp-btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 14px 35px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+}
