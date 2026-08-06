@@ -11,3 +11,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
 });
+function playMusic() {
+    document.getElementById("bgMusic").play();
+}
