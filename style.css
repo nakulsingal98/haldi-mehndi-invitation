@@ -193,3 +193,6 @@ button:hover{
         transform: translateY(110vh) rotate(360deg);
     }
 }
+body {
+    background: red !important;
+}
