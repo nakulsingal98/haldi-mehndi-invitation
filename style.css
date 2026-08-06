@@ -131,3 +131,22 @@ transform
     font-size: 18px;
     font-weight: 600;
 }
+
+.venue-section {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.venue-section h2 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 45px;
+}
+
+.map-btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 14px 30px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 600;
+}
