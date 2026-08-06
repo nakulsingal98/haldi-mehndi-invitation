@@ -85,3 +85,29 @@ transform
     object-fit: cover;
     border-radius: 15px;
 }
+
+.slideshow {
+    width: 90%;
+    max-width: 500px;
+    margin: auto;
+}
+
+.slide {
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.gallery img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 15px;
+}
