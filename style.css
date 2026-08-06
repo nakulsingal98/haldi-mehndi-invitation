@@ -71,3 +71,17 @@ transition:.3s;
 
 button:hover{
 transform
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.gallery img {
+    width: 280px;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 15px;
+}
